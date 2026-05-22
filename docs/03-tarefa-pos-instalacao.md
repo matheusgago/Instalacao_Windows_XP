@@ -25,13 +25,14 @@ Instalar os drivers de virtualização do pacote Guest Additions do VirtualBox p
 ## 📝 Entregáveis desta Etapa
 
 ### 📸 [EVIDÊNCIA]
-*Insira aqui uma captura de tela do Windows XP em "Modo Janela Redimensionada" ou em "Tela Cheia" dentro do VirtualBox, demonstrando que os drivers de vídeo e integração do mouse estão ativos de forma fluida.*
+*<img width="1920" height="969" alt="VirtualBox_Lab-WinXP-Matheusgago_22_05_2026_10_15_19" src="https://github.com/user-attachments/assets/ad8d880f-9901-400c-9ead-0755dafc9288" />
+*
 
 ### ❓ [QUESTÃO 3]
 Quais recursos técnicos específicos passam a funcionar entre o sistema operacional real (hospedeiro) e a máquina virtual do Windows XP (convidado) após a instalação correta dos "Adicionais de Convidado" (Guest Additions)?
 
 **Sua Resposta:**
-> 
+> Após a instalação dos Guest Additions no Windows XP, passam a funcionar recursos de integração entre o sistema hospedeiro e a máquina virtual, como redimensionamento automático da tela, suporte a resoluções maiores, integração do mouse sem captura manual, compartilhamento da área de transferência, suporte a pastas compartilhadas, sincronização aprimorada de drivers e aceleração gráfica 2D/3D. Esses recursos melhoram o desempenho, a usabilidade e a comunicação entre o hospedeiro e o sistema convidado.
 
 ---
 [⬅️ Voltar para a Etapa 2](02-tarefa-instalacao.md) | [Ir para a Etapa 4 ➡️](04-tarefa-troubleshooting-seguranca.md)
